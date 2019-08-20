@@ -170,6 +170,7 @@
   },
   "dependencies": {
     "@babel/polyfill": "7.2.5",
+    "@storybook/theming": "^5.1.11",
     "@testing-library/react-hooks": "2.0.1",
     "@torkelo/react-select": "2.4.1",
     "@types/angular-route": "1.7.0",
